@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }});
         
         // Define o link do WhatsApp com o número fixo
-        whatsappLink.href = 'https://wa.me/12981199574';
+        whatsappLink.href = 'https://wa.me/12982406588';
     } else {
         console.error('O formulário ou o link do WhatsApp não foram encontrados.');
     }
